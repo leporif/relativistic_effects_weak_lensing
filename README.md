@@ -52,17 +52,19 @@ To run the notebooks and reproduce the results in this repository, set up the Py
 
 ```bash
 conda env create -f environment.yml
+```
 
 2. **Activate the environment** :
 
 ```bash
 conda activate env-releff
+```
 
 3. **Add the environment as a Jupyter kernel** :
 
 ```bash
 python -m ipykernel install --user --name kernel-releff --display-name "kernel-releff"
-
+```
 4. **Launch Jupyter Notebook or JupyterLab** and select the kernel kernel-releff.
 
 ## Acknowledgements
