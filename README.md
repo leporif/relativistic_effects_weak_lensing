@@ -88,6 +88,7 @@ If you use this repository or the results provided here, please cite:
 
 M. Magi, F. Lepori, J. Adamek,  
 "Perturbative and numerical study of nonlinear relativistic effects in weak lensing".
+Preprint link: https://arxiv.org/abs/2603.24179
 
 In addition, please cite the original CAMB and CLASS papers when using results
 that rely on these codes.
