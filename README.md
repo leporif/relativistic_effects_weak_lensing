@@ -4,7 +4,9 @@ This repository contains the codes used to compute theoretical predictions for w
 The codes reproduce the results presented in the paper:
 
 “Perturbative and numerical study of nonlinear relativistic effects in weak lensing”
-by M. Magi, F. Lepori, J. Adamek.
+by M. Magi, F. Lepori, J. Adamek (preprint link: https://arxiv.org/abs/2603.24179).
+
+
 
 The repository provides both the analytical predictions and the simulation measurements used to generate the figures in the paper.
 
@@ -88,6 +90,7 @@ If you use this repository or the results provided here, please cite:
 
 M. Magi, F. Lepori, J. Adamek,  
 "Perturbative and numerical study of nonlinear relativistic effects in weak lensing".
+
 Preprint link: https://arxiv.org/abs/2603.24179
 
 In addition, please cite the original CAMB and CLASS papers when using results
